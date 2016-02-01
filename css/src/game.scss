@@ -1,0 +1,40 @@
+body {
+
+  table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-variant: normal;
+    font-style: normal;
+    background-color: cyan;
+    text-align: start;
+    margin:0 auto;
+
+    .c0, .e0, .f0, .g0, .h0, .i0 {
+      border-left: #DDDDEE solid 1px;
+      
+    }
+
+     .e0, .e1, .e2, .e3, .g0, .g1, .g2, .g3, .i0, .i1, .i2, .i3 {
+      border-left: #666699 solid 2px;
+    }
+
+
+    .f0, .f1, .f2, .f3, .g0, .g1, .g2, .g3 {
+      border-top: #666699 solid 2px;
+    }
+
+    .c0, .e0, .f0, .g0, .h0, .i0 {
+      border-right: #666699 solid 2px;
+      border-bottom: #666699 solid 2px;
+    }
+
+
+
+
+
+
+  }
+
+}

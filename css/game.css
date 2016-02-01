@@ -1,0 +1,21 @@
+body table {
+  white-space: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-size: medium;
+  font-variant: normal;
+  font-style: normal;
+  background-color: cyan;
+  text-align: start;
+  margin: 0 auto; }
+  body table .c0, body table .e0, body table .f0, body table .g0, body table .h0, body table .i0 {
+    border-left: #DDDDEE solid 1px; }
+  body table .e0, body table .e1, body table .e2, body table .e3, body table .g0, body table .g1, body table .g2, body table .g3, body table .i0, body table .i1, body table .i2, body table .i3 {
+    border-left: #666699 solid 2px; }
+  body table .f0, body table .f1, body table .f2, body table .f3, body table .g0, body table .g1, body table .g2, body table .g3 {
+    border-top: #666699 solid 2px; }
+  body table .c0, body table .e0, body table .f0, body table .g0, body table .h0, body table .i0 {
+    border-right: #666699 solid 2px;
+    border-bottom: #666699 solid 2px; }
+
+/*# sourceMappingURL=game.css.map */
